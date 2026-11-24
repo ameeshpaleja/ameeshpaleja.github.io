@@ -4,4 +4,4 @@ ai-lab-backup is a personal backup tool used only by its owner for a private hom
 
 It requests a single Google Drive permission, drive.file, which lets it see and manage only the files it creates. It cannot see anything else in the Drive. It is not offered to anyone else.
 
-Privacy policy: https://ameeshpaleja.github.io/privacy.html
+[Privacy policy](https://ameeshpaleja.github.io/privacy.html)
